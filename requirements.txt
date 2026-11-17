@@ -1,0 +1,5 @@
+# Python dependencies for the PDBC Student Management System
+mysql-connector-python>=8.0,<10.0
+
+# Tkinter is included with most standard Windows Python installations.
+# It is not installed through pip.
